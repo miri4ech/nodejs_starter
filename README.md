@@ -5,11 +5,11 @@ for node.js beginners
 
 ## Setup
 ```bash
-	brew install node.js
-	mkdir test
-	cd npm_test
-	npm init
-	npm install -g browserify
+brew install node.js
+mkdir test
+cd npm_test
+npm init
+npm install -g browserify
 ```
 
 ## Installation
