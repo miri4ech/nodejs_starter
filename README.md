@@ -4,11 +4,11 @@ nodejs_starter
 for node.js beginners
 
 ## Setup
-	`brew install node.js`
-	`mkdir test`
-	`cd npm_test`
-	`npm init`
-	`npm install -g browserify`
+	brew install node.js
+	mkdir test
+	cd npm_test
+	npm init
+	npm install -g browserify
 
 ## Installation
 TODO: Describe the installation process
