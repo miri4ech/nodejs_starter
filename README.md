@@ -27,4 +27,4 @@ TODO: Write usage instructions
 TODO: Write requirement
 
 ## License
-[MIT](https://github.com/miri4ech/nodejs_starter/LICENCE)
+[MIT](https://github.com/miri4ech/nodejs_starter/blob/master/LICENSE)
