@@ -2,6 +2,7 @@ nodejs_starter
 ===
 
 for node.js beginners
+simple add calculator / how to write a simple README.md
 
 ## Setup
 ```bash
@@ -11,12 +12,6 @@ cd npm_test
 npm init
 npm install -g browserify
 ```
-
-## Installation
-TODO: Describe the installation process
-
-## Usage
-TODO: Write usage instructions
 
 ## Contributing
 1. Fork it!
@@ -30,3 +25,5 @@ TODO: Write requirement
 
 ## License
 [MIT](https://github.com/miri4ech/nodejs_starter/blob/master/LICENSE)
+
+### [DEMO](https://miri4ech.github.io/nodejs_starter/)
