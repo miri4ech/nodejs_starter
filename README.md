@@ -20,8 +20,14 @@ npm install -g browserify
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :smirk:
 
-## Requirement
-TODO: Write requirement
+## HOW TO RUN (browserify)
+
+```bash
+cd npm_test
+browserify src/main.js -o dest/build.js
+```
+
+-> then you can see the result on index.html
 
 ## License
 [MIT](https://github.com/miri4ech/nodejs_starter/blob/master/LICENSE)
